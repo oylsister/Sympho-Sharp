@@ -7,6 +7,7 @@ using System.Runtime;
 using CounterStrikeSharp.API;
 using CounterStrikeSharp.API.Modules.Timers;
 using CounterStrikeSharp.API.Modules.Memory;
+using CounterStrikeSharp.API.Modules.Events;
 
 namespace Sympho.Functions
 {
